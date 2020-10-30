@@ -17,11 +17,11 @@
   },
   {
     "chainId": 2,
-    "address": "0xcA65E483e885BbECF8FBc3856593E66577e06bC2",
-    "symbol": "1BTC",
-    "name": "OneBTC",
-    "decimals": 18,
-    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1BTC.png"
+    "address": "0x6c4387C4f570Aa8cAdcaFFc5E73ecb3D0F8Fc593",
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
   },
   {
     "chainId": 2,
