@@ -38,5 +38,29 @@
     "name": "ChainLink Token",
     "decimals": 18,
     "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1LINK.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7fA202fdb3B0eCB975119cc3A895BFB3104aDA68",
+    "symbol": "SEE",
+    "name": "SeeSwap Token",
+    "decimals": 18,
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/SEE.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
+    "symbol": "EUSK",
+    "name": "Mintbes Token",
+    "decimals": 18,
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/EUSK.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xBD16b0B2eB520b7Ff4A4156d367Ee359Ac19c531",
+    "symbol": "ARANK",
+    "name": "ARANK Token",
+    "decimals": 18,
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/ARANK.png"
   }
 ]
