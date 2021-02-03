@@ -57,10 +57,11 @@
   },
   {
     "chainId": 1,
-    "address": "0xBD16b0B2eB520b7Ff4A4156d367Ee359Ac19c531",
-    "symbol": "ARANK",
-    "name": "ARANK Token",
+    "address": "0x7d0546dBb1Dca8108d99Aa389A8e9Ce0C40B2370",
+    "symbol": "LMA",
+    "name": "LMA-Art-Gallery",
     "decimals": 18,
-    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/ARANK.png"
-  }
+    "logoURI": "https://coin-market-chart.herokuapp.com/_next/image?url=%2Fuploads%2Flma.png&w=128&q=75"
+  },
+
 ]
