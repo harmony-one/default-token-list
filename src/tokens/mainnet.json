@@ -25,6 +25,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x6983D1E6DEf3690C4d616b13597A09e6193EA013",
+    "symbol": "1ETH",
+    "name": "Ether",
+    "decimals": 18,
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1ETH.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xF720b7910C6b2FF5bd167171aDa211E226740bfe",
     "symbol": "1WETH",
     "name": "Wrapped Ether",
