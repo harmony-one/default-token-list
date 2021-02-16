@@ -46,5 +46,13 @@
     "name": "ChainLink Token",
     "decimals": 18,
     "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1LINK.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x421b372389f89E2Abbf2C91f006Fc04a1f424B2D",
+    "symbol": "1YFL",
+    "name": "YFLink",
+    "decimals": 18,
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1YFL.png"
   }
 ]
