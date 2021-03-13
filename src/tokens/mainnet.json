@@ -54,5 +54,13 @@
     "name": "YFLink",
     "decimals": 18,
     "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1YFL.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x34704c70e9eC9fB9A921da6DAAD7D3e19f43c734",
+    "symbol": "1DSLA",
+    "name": "DSLA",
+    "decimals": 18,
+    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1DSLA.png"
   }
 ]
